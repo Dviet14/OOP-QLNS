@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quản lý Nhân Sự
 
 Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quản lý thông tin nhân viên với các chức năng CRUD (Create, Read, Update, Delete), tìm kiếm và thống kê.
@@ -103,3 +104,6 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 - Swing (GUI)
 - JAXB (XML Binding)
 - JCalendar (Date Picker) 
+=======
+# OOP-QLNS
+>>>>>>> 00c1e64f2ce35d307ad3c04e6bc9db922d137bde
