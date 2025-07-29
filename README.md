@@ -85,7 +85,7 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 
 ## Thông tin đăng nhập
 - **Tên đăng nhập**: admin
-- **Mật khẩu**: 123456
+- **Mật khẩu**: admin
 
 ## Cấu trúc dữ liệu XML
 
