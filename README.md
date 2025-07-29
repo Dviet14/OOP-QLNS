@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quản lý Nhân Sự
 
 Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quản lý thông tin nhân viên với các chức năng CRUD (Create, Read, Update, Delete), tìm kiếm và thống kê.
@@ -45,7 +44,7 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 ### Sử dụng mã nguồn
 1. Clone repository:
    ```
-   git clone https://github.com/your-username/QuanLyNhanSu.git
+   https://github.com/Dviet14/OOP-QLNS.git
    ```
 2. Vào thư mục dự án:
    ```
@@ -60,16 +59,15 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 ## Hướng dẫn sử dụng
 
 1. **Đăng nhập**:
-   - Sử dụng tài khoản mặc định: 
-     - Tên đăng nhập: `admin`
-     - Mật khẩu: `admin`
+   - Tên đăng nhập: `admin`
+   - Mật khẩu: `admin`
 
 2. **Dashboard**:
    - Giao diện chính hiển thị sau khi đăng nhập
    - Sử dụng sidebar menu để chuyển đổi giữa các chức năng
 
 3. **Quản lý nhân viên**:
-   - Thêm nhân viên mới: Điền thông tin vào form bên trái và nhấn "Thêm"
+   - Thêm nhân viên: Điền thông tin vào form bên trái và nhấn "Thêm"
    - Cập nhật nhân viên: Chọn nhân viên từ bảng, sửa thông tin, nhấn "Cập nhật"
    - Xóa nhân viên: Chọn nhân viên từ bảng, nhấn "Xóa" và xác nhận
 
@@ -93,17 +91,3 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 
 1. **employees.xml**: Lưu trữ thông tin nhân viên
 2. **config.xml**: Lưu trữ danh sách phòng ban, vị trí, trình độ học vấn
-
-## Yêu cầu hệ thống
-- Java Runtime Environment (JRE) 17 trở lên
-- RAM: 2GB trở lên
-- Ổ cứng: 100MB trống
-
-## Công nghệ sử dụng
-- Java 17
-- Swing (GUI)
-- JAXB (XML Binding)
-- JCalendar (Date Picker) 
-=======
-# OOP-QLNS
->>>>>>> 00c1e64f2ce35d307ad3c04e6bc9db922d137bde
