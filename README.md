@@ -1,7 +1,5 @@
 # Quản lý Nhân Sự
 
-Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quản lý thông tin nhân viên với các chức năng CRUD (Create, Read, Update, Delete), tìm kiếm và thống kê.
-
 ## Chức năng phần mềm
 
 1. **Quản lý thông tin nhân viên**:
