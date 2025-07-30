@@ -1,4 +1,6 @@
-# Quản lý Nhân Sự
+# Nhóm 7 - Quản lý Nhân Sự
+- Nguyễn Duy Việt
+- Đỗ Tiến Hải
 
 ## Chức năng phần mềm
 
