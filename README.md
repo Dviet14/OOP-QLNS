@@ -83,10 +83,6 @@
 6. **Đăng xuất**:
    - Nhấn nút "Đăng xuất" trên sidebar để thoát khỏi hệ thống
 
-## Thông tin đăng nhập
-- **Tên đăng nhập**: admin
-- **Mật khẩu**: admin
-
 ## Cấu trúc dữ liệu XML
 
 1. **employees.xml**: Lưu trữ thông tin nhân viên
